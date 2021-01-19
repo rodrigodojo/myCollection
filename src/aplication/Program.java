@@ -7,6 +7,10 @@ import util.*;
 
 public class Program extends JFrame{
 		
+		/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 		private JScrollPane scroll;
 		private JTextArea conteudo;
 		private JMenuBar menuBar;
